@@ -10,7 +10,7 @@
 ## MOD Request & BUG report
 
 join discord
-(not open yet)
+  >> https://discord.com/invite/SfNe2PsWVP
 
 ## simple bug fix
 
