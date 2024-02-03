@@ -1,4 +1,4 @@
-### HOW TO DOWNLOAD
+# HOW TO DOWNLOAD
 
 ※ warn! - make sure close your GD ※
 1. download Main .Zip Foloder
@@ -9,7 +9,7 @@
 
 ## MOD Request & BUG report
 
-# join discord
+join discord
 (not open yet)
 
 ## simple bug fix
