@@ -3,7 +3,7 @@
 ※ warn! - make sure close your GD ※
 1. download Main .Zip Foloder
 
-2. inject .DLL to GEOMETRY DASH folder
+2. inject .Gepde to GEODE folder in  GEOMETRY DASH folder
 
 2. open GD and fun!
 
